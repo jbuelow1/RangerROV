@@ -1,5 +1,5 @@
 # RangerROV
-Code for an underwater robot
+Code for an underwater robot that floods at compt
 
 # Libraries
 pygame 
