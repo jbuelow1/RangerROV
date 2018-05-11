@@ -11,4 +11,9 @@ subprocess
 threading
 
 # Required Software
-VLC Media Player
+VLC Media Player(Optional)
+
+Joystick(Required)
+Joystick(Optional)
+Adafruit PWM board
+PiCamera(Optional)
